@@ -1,0 +1,1 @@
+A simple code to play Rock, Paper and Scissors with....hopefully!
